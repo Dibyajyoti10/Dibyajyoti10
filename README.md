@@ -1,7 +1,8 @@
-- 👋 Hey, I’m @Dibyajyoti10 (Dibyajyoti Rautaray).I'm a 2nd year UG student pursuing B.Tech(CSE)
+- 👋 Hey, I’m @Dibyajyoti10 (Dibyajyoti Rautaray).I'm a 3rd year UG student pursuing B.Tech(CSE)
       at ITER,SOA(Siksha 'O' Anusandhan)University,Bhubaneswar. 
 - 🌱 I’m currently learning Full Stack Development(Front-end), along with java.
 - 📫 How to reach me :G-mail: rautaraydibyajyoti99@gmail.com
+-                      Linkedin: Dibyajyoti Rautaray
 - 💬 Can ask me about html,css,jquery,bootstrap,java..
 - 😄 Pronouns: DJ
 - ⚡ Fun fact: "TRYING TO DO BETTER !!!"
