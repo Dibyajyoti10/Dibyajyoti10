@@ -2,7 +2,7 @@
       at ITER,SOA(Siksha 'O' Anusandhan)University,Bhubaneswar. 
 - 🌱 I’m currently learning Full Stack Development(Front-end), along with java and cpp.
 - 📫 How to reach me :G-mail: rautaraydibyajyoti99@gmail.com
--                      Linkedin: Dibyajyoti Rautaray
+-                      Linkedin: (Dibyajyoti Rautaray) https://www.linkedin.com/in/dibyajyoti-rautaray-4556902b6/
 - 💬 Can ask me about html,css,jquery,bootstrap,JS,java,CPP..
 - 😄 Pronouns: DJ
 - ⚡ Fun fact: "TRYING TO DO BETTER !!!"
