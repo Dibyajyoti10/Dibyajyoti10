@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Full Stack Development(Front-end), along with java.
 - 📫 How to reach me :G-mail: rautaraydibyajyoti99@gmail.com
 -                      Linkedin: Dibyajyoti Rautaray
-- 💬 Can ask me about html,css,jquery,bootstrap,java..
+- 💬 Can ask me about html,css,jquery,bootstrap,JS,java..
 - 😄 Pronouns: DJ
 - ⚡ Fun fact: "TRYING TO DO BETTER !!!"
 
